@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn
+yarn-error.log
+.pnp.*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Debug
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Vite build output
+/dist/
+
+# Vite cache
+node_modules/.vite/
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+.pnpm/
+.pnpm-debug.log
+
+# Local .env files
+.env.local
+.env.developm
